@@ -120,10 +120,5 @@ You can watch the demo of the application in action here:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
---- 
 
 This README provides a thorough and easy-to-follow guide for setting up and using **Supportiyo AI - Speech Accent Enhancer**.
