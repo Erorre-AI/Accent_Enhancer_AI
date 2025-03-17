@@ -103,7 +103,7 @@ Open your browser and visit [http://localhost:5000](http://localhost:5000) to st
 ## 🎥 Demo
 
 You can watch the demo of the application in action here:  
-**[Demo URL goes here]**
+**https://drive.google.com/file/d/1ArQhwNafPz0igg94NnUsugtaatvjJQSb/view?usp=sharing**
 
 ---
 
