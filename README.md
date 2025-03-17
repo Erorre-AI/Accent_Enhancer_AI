@@ -22,7 +22,12 @@ Transform your speech in real-time with an American accent!
 Supportiyo AI is a cutting-edge tool designed to enhance your speech with a real-time American accent. Powered by advanced technologies such as OpenAI’s Whisper API for speech-to-text, GPT-4 for accent conversion, and ElevenLabs for text-to-speech, it provides an intuitive and seamless experience. This tool also features automatic translation, making non-English speech easily understandable in English.
 
 ---
+## 🎥 Demo
 
+You can watch the demo of the application in action here:  
+**https://drive.google.com/file/d/1ArQhwNafPz0igg94NnUsugtaatvjJQSb/view?usp=sharing**
+
+---
 ## 🚀 Features
 
 - **Real-time Accent Enhancement** – Speak and instantly hear your speech transformed with an American accent.
@@ -97,13 +102,6 @@ Open your browser and visit [http://localhost:5000](http://localhost:5000) to st
 3. **Click ⏹️ stop** to finish the recording.
 4. View the **transcribed and enhanced speech** on the interface.
 5. **Press ▶️ play** to hear your speech with the transformed American accent.
-
----
-
-## 🎥 Demo
-
-You can watch the demo of the application in action here:  
-**https://drive.google.com/file/d/1ArQhwNafPz0igg94NnUsugtaatvjJQSb/view?usp=sharing**
 
 ---
 
